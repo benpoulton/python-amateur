@@ -1,0 +1,2 @@
+# python-amateur
+Practicing python.
